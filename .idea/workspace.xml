@@ -29,11 +29,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sparse_Arrays.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sparse_Arrays.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sparse_Arrays.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
               <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Array_Manipulation.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Array_Manipulation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="437">
+              <caret line="45" selection-start-line="45" selection-end-line="45" />
             </state>
           </provider>
         </entry>
@@ -49,6 +58,7 @@
         <option value="$PROJECT_DIR$/bubble_sort.php" />
         <option value="$PROJECT_DIR$/2DArray.php" />
         <option value="$PROJECT_DIR$/Sparse_Arrays.php" />
+        <option value="$PROJECT_DIR$/Array_Manipulation.php" />
       </list>
     </option>
   </component>
@@ -109,17 +119,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.Sparse_Arrays.php">
+  <component name="RunManager" selected="PHP Script.Array_Manipulation.php">
     <configuration name="2DArray.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/2DArray.php" />
+    <configuration name="Array_Manipulation.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Array_Manipulation.php" />
     <configuration name="Sparse_Arrays.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Sparse_Arrays.php" />
     <configuration name="bubble_sort.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/bubble_sort.php" />
     <list>
       <item itemvalue="PHP Script.bubble_sort.php" />
       <item itemvalue="PHP Script.2DArray.php" />
       <item itemvalue="PHP Script.Sparse_Arrays.php" />
+      <item itemvalue="PHP Script.Array_Manipulation.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.Array_Manipulation.php" />
         <item itemvalue="PHP Script.Sparse_Arrays.php" />
         <item itemvalue="PHP Script.2DArray.php" />
         <item itemvalue="PHP Script.bubble_sort.php" />
@@ -137,21 +150,20 @@
       <option name="presentableId" value="Default" />
       <updated>1529843380318</updated>
       <workItem from="1529843381784" duration="86000" />
-      <workItem from="1529850234988" duration="3620000" />
+      <workItem from="1529850234988" duration="6410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3765000" />
+    <option name="totallyTimeSpent" value="6555000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38207546" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38207546" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Remote Host" order="3" />
@@ -159,7 +171,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3125" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3125" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -190,8 +202,13 @@
           <line>27</line>
           <option name="timeStamp" value="4" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/Array_Manipulation.php</url>
+          <line>45</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="5" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -223,6 +240,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Sparse_Arrays.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2DArray.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
@@ -230,10 +254,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sparse_Arrays.php">
+    <entry file="file://$PROJECT_DIR$/Array_Manipulation.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
+        <state relative-caret-position="437">
+          <caret line="45" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
