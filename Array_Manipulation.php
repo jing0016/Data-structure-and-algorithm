@@ -28,7 +28,7 @@ function arrayManipulation($n, $queries) {
 //    $result = max($arr);
     $tempMax = 0;
     $result = 0;
-    for($i = 0; $i < $n;$i++)
+    for($i = 1; $i <= $n;$i++)
     {
         $tempMax += $arr[$i];
         if($tempMax>$result) $result = $tempMax;
@@ -36,12 +36,16 @@ function arrayManipulation($n, $queries) {
     return $result;
 }
 
-$n = 5;
+$n = 4;
 $queries = array(
-    array(1,2,100),
-    array(2,5,100),
-    array(3,4,100),
+    array(2, 3, 603),
+    array(1, 1, 286),
+    array(4, 4, 882),
 );
 
 $result = arrayManipulation($n, $queries);
 echo $result;
+
+
+
+
