@@ -11,65 +11,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="bubble_sort.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bubble_sort.php">
+      <file leaf-file-name="min_max_sum.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/min_max_sum.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="390">
-              <caret line="31" column="1" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2DArray.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2DArray.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Sparse_Arrays.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Sparse_Arrays.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Array_Manipulation.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Array_Manipulation.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="33" column="48" lean-forward="true" selection-start-line="33" selection-start-column="48" selection-end-line="33" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="insert_node.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/insert_node.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="95" column="14" selection-start-line="95" selection-start-column="14" selection-end-line="95" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="big_sum.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/big_sum.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="stair_case.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/stair_case.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="210">
+              <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -90,6 +36,7 @@
         <option value="$PROJECT_DIR$/waiter.php" />
         <option value="$PROJECT_DIR$/big_sum.php" />
         <option value="$PROJECT_DIR$/stair_case.php" />
+        <option value="$PROJECT_DIR$/min_max_sum.php" />
       </list>
     </option>
   </component>
@@ -150,26 +97,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.stair_case.php">
+  <component name="RunManager" selected="PHP Script.min_max_sum.php">
     <configuration name="Array_Manipulation.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Array_Manipulation.php" />
-    <configuration name="Sparse_Arrays.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Sparse_Arrays.php" />
     <configuration name="big_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/big_sum.php" />
     <configuration name="insert_node.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/insert_node.php" />
+    <configuration name="min_max_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/min_max_sum.php" />
     <configuration name="stair_case.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/stair_case.php" />
     <list>
-      <item itemvalue="PHP Script.Sparse_Arrays.php" />
       <item itemvalue="PHP Script.Array_Manipulation.php" />
       <item itemvalue="PHP Script.insert_node.php" />
       <item itemvalue="PHP Script.big_sum.php" />
       <item itemvalue="PHP Script.stair_case.php" />
+      <item itemvalue="PHP Script.min_max_sum.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.min_max_sum.php" />
         <item itemvalue="PHP Script.stair_case.php" />
         <item itemvalue="PHP Script.big_sum.php" />
         <item itemvalue="PHP Script.insert_node.php" />
         <item itemvalue="PHP Script.Array_Manipulation.php" />
-        <item itemvalue="PHP Script.Sparse_Arrays.php" />
       </list>
     </recent_temporary>
   </component>
@@ -185,12 +132,12 @@
       <updated>1529843380318</updated>
       <workItem from="1529843381784" duration="86000" />
       <workItem from="1529850234988" duration="8918000" />
-      <workItem from="1530146542620" duration="542000" />
+      <workItem from="1530146542620" duration="2245000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9605000" />
+    <option name="totallyTimeSpent" value="11308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -200,15 +147,15 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.38207546" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.38207546" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14027777" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14027777" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3125" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.3125" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="PHP-CGI Server" order="7" />
@@ -243,8 +190,13 @@
           <line>45</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/min_max_sum.php</url>
+          <line>27</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="7" />
+      <option name="time" value="8" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -355,8 +307,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/stair_case.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="180">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/min_max_sum.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
         </state>
       </provider>
     </entry>
