@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="870d4bec-2704-4ae0-be0b-a1182dc1a120" name="Default" comment="" />
+    <list default="true" id="870d4bec-2704-4ae0-be0b-a1182dc1a120" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/waiter.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="waiter.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/waiter.php">
+      <file leaf-file-name="big_sum.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/big_sum.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -79,6 +81,7 @@
         <option value="$PROJECT_DIR$/Array_Manipulation.php" />
         <option value="$PROJECT_DIR$/insert_node.php" />
         <option value="$PROJECT_DIR$/waiter.php" />
+        <option value="$PROJECT_DIR$/big_sum.php" />
       </list>
     </option>
   </component>
@@ -139,26 +142,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="PHP Script.insert_node.php">
+  <component name="RunManager" selected="PHP Script.big_sum.php">
     <configuration name="2DArray.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/2DArray.php" />
     <configuration name="Array_Manipulation.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Array_Manipulation.php" />
     <configuration name="Sparse_Arrays.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/Sparse_Arrays.php" />
-    <configuration name="bubble_sort.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/bubble_sort.php" />
+    <configuration name="big_sum.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/big_sum.php" />
     <configuration name="insert_node.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/insert_node.php" />
     <list>
-      <item itemvalue="PHP Script.bubble_sort.php" />
       <item itemvalue="PHP Script.2DArray.php" />
       <item itemvalue="PHP Script.Sparse_Arrays.php" />
       <item itemvalue="PHP Script.Array_Manipulation.php" />
       <item itemvalue="PHP Script.insert_node.php" />
+      <item itemvalue="PHP Script.big_sum.php" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="PHP Script.big_sum.php" />
         <item itemvalue="PHP Script.insert_node.php" />
         <item itemvalue="PHP Script.Array_Manipulation.php" />
         <item itemvalue="PHP Script.Sparse_Arrays.php" />
         <item itemvalue="PHP Script.2DArray.php" />
-        <item itemvalue="PHP Script.bubble_sort.php" />
       </list>
     </recent_temporary>
   </component>
@@ -174,12 +177,12 @@
       <updated>1529843380318</updated>
       <workItem from="1529843381784" duration="86000" />
       <workItem from="1529850234988" duration="8918000" />
-      <workItem from="1530146542620" duration="27000" />
+      <workItem from="1530146542620" duration="410000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9090000" />
+    <option name="totallyTimeSpent" value="9473000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -189,10 +192,10 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.38207546" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38207546" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="right" id="Remote Host" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14027777" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14027777" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -321,6 +324,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/waiter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/insert_node.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
@@ -328,10 +338,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/waiter.php">
+    <entry file="file://$PROJECT_DIR$/big_sum.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
         </state>
       </provider>
     </entry>
